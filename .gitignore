@@ -1,0 +1,11 @@
+.idea
+*iml
+*.gz
+*.zip
+*.log
+*logs/
+*.retry
+!supervisor_all.zip
+!supervisor_all.tar.gz
+target
+null
